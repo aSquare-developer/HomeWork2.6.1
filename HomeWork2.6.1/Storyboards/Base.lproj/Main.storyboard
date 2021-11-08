@@ -73,7 +73,7 @@
                                                 <rect key="frame" x="128" y="0.0" width="183" height="35"/>
                                                 <color key="minimumTrackTintColor" systemColor="systemRedColor"/>
                                                 <connections>
-                                                    <action selector="rgbSliderChanged" destination="lFz-EK-Zbe" eventType="valueChanged" id="dhG-kk-mhY"/>
+                                                    <action selector="rgbSliderChanged:" destination="lFz-EK-Zbe" eventType="valueChanged" id="7Qu-yi-EXn"/>
                                                 </connections>
                                             </slider>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="CLw-WY-Tzh" userLabel="Red Text Field">
@@ -114,7 +114,7 @@
                                                 <rect key="frame" x="128" y="0.0" width="183" height="35"/>
                                                 <color key="minimumTrackTintColor" systemColor="systemGreenColor"/>
                                                 <connections>
-                                                    <action selector="rgbSliderChanged" destination="lFz-EK-Zbe" eventType="valueChanged" id="kUL-7y-7fL"/>
+                                                    <action selector="rgbSliderChanged:" destination="lFz-EK-Zbe" eventType="valueChanged" id="ktz-oL-IdW"/>
                                                 </connections>
                                             </slider>
                                             <textField opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ofo-2A-JqN" userLabel="Green Text Field">
@@ -155,7 +155,7 @@
                                                 <rect key="frame" x="128" y="0.0" width="183" height="35"/>
                                                 <color key="minimumTrackTintColor" systemColor="systemBlueColor"/>
                                                 <connections>
-                                                    <action selector="rgbSliderChanged" destination="lFz-EK-Zbe" eventType="valueChanged" id="1RJ-fi-U8z"/>
+                                                    <action selector="rgbSliderChanged:" destination="lFz-EK-Zbe" eventType="valueChanged" id="Lpe-jE-aJk"/>
                                                 </connections>
                                             </slider>
                                             <textField opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="azc-5s-gP2" userLabel="Blue Text Field">
